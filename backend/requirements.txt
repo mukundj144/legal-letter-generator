@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+motor
+pymongo
+pymupdf
+langchain
+langchain-openai
+langchain-core
+faiss-cpu
+openai>=1.6.1
+python-multipart
+python-dotenv
+pydantic
+sentence-transformers
+numpy
+tiktoken>=0.7.0
+langsmith
